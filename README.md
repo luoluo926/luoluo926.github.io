@@ -16,6 +16,7 @@ assets/
   projects/                   One folder per project, holding its screenshot
 projects/
   sheng-guan-tu/index.html    Standalone detail page for the board game
+  tianyuan/index.html         Standalone detail page for Tianyuan Xinshi
 README.md
 ```
 
